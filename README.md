@@ -11,5 +11,5 @@ Database Administration 🗃️: Ensuring data is not just stored but managed ef
 
 📬 Contact
 Got questions or just want to chat ? Reach out to me at fathima.offical.msg@gmail.com. Let's connect! 🌐
-Connect with me on LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/fathima-a-a2534b28b/)https://www.linkedin.com/in/fathima-a-a2534b28b/
+Connect with me on LinkedIn: https://www.linkedin.com/in/fathima-a-a2534b28b/
 Thanks again for stopping by! Happy coding! 🚀✨
