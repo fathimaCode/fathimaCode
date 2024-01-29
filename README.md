@@ -1,4 +1,4 @@
-Hey there! 👋 Thanks for checking out this fantastic project developed by yours truly, a passionate and skilled Full Stack Developer! 🌟 Whether you're a fellow developer, contributor, or just curious, I'm thrilled to have you here.
+Hey there! 👋 Thanks for checking out this fantastic project developed by yours truly, a passionate and skilled Full Stack Developer! I'm thrilled to have you here.
 
 🌐 Technologies and Expertise
 This project is a showcase of my proficiency in a variety of cutting-edge technologies:
