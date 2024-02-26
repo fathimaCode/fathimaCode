@@ -14,7 +14,8 @@ This project is a showcase of my proficiency in a variety of cutting-edge techno
 Got questions or just want to chat ? Reach out to me at fathima.offical.msg@gmail.com. 
 Let's connect! 🌐
 Connect with me on LinkedIn: https://www.linkedin.com/in/fathima-a-a2534b28b/
-
+Completed Project Details:
+https://faprojects.blogspot.com/2024/02/project-voice-log.html
 
 
 
