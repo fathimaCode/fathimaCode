@@ -12,8 +12,12 @@ This project is a showcase of my proficiency in a variety of cutting-edge techno
 
 📬 Contact
 Got questions or just want to chat ? Reach out to me at fathima.offical.msg@gmail.com. 
+
 Let's connect! 🌐
+
 Connect with me on LinkedIn: https://www.linkedin.com/in/fathima-a-a2534b28b/
+
+https://www.buymeacoffee.com/fathima
 
 
 **Completed Project Details:**
