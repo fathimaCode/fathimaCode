@@ -3,12 +3,13 @@ Hey there! 👋 Thanks for checking out this fantastic project developed by your
 🌐 Technologies and Expertise
 This project is a showcase of my proficiency in a variety of cutting-edge technologies:
 
-1. MERN Stack 🚀: MongoDB, Express.js, React, Node.js - the dream team for building robust and scalable web applications.
+1. MERN Stack 🚀: MongoDB, Express.js, React,Graphql,Redux, Node.js - the dream team for building robust and scalable web applications.
 
 2. React Native 📱: Crafting seamless mobile experiences that run on both iOS and Android platforms.
 3. PHD Writing 🎓: Yes, you read that right! I'm not just a coder; I'm a wordsmith too. My expertise extends to creating documentation that's not only informative but also engaging.
 4. PHP 🐘: Bringing server-side magic to the mix, because versatility matters.
-5. Database Administration 🗃️: Ensuring data is not just stored but managed efficiently for optimal performance.
+5. Flutter Apps 
+6. Database Administration 🗃️: Ensuring data is not just stored but managed efficiently for optimal performance.
 
 📬 Contact
 Got questions or just want to chat ? Reach out to me at fathima.offical.msg@gmail.com. 
