@@ -18,11 +18,9 @@ Let's connect! 🌐
 
 Connect with me on LinkedIn: https://www.linkedin.com/in/fathima-a-a2534b28b/
 
-My Recent Project Posted Here:
-https://www.buymeacoffee.com/fathima
 
 
 
 
 
-Thanks again for stopping by! Happy coding! 🚀✨
+
