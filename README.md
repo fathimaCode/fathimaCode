@@ -7,4 +7,4 @@ Cloud & DevOps: Heroku, Firebas
 Databases: SQL, NoSQL (MongoDB, Firebase Realtime Database)
 Payment Integration: Stripe API
 
-Webiste: https://sites.google.com/view/cvengineerfathima/
+Currently I am sharing my learning via : https://medium.com/@fathima.offical.msg/
