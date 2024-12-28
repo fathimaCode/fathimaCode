@@ -15,6 +15,7 @@ I am a versatile **Software Engineer** with 5 years of hands-on experience acros
 
 ## **Machine Learning & Deep Learning:**
 - Jupyter Notebooks
+- Computer Vision 
 - TensorFlow
 - PyTorch
 
