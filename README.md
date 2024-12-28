@@ -1,12 +1,37 @@
-👋 About Me
-I am a versatile Full Stack Developer with 5 years of hands-on experience across diverse domains. My expertise spans:
-Backend Development: Python (Flask, FastAPI), PHP, Kotlin
-Frontend Development: React, Flutter
-Machine Learning & Deep Learning: Jupyter Notebooks, TensorFlow, PyTorch
-Cloud & DevOps: Heroku, Firebas
-Databases: SQL, NoSQL (MongoDB, Firebase Realtime Database)
-Payment Integration: Stripe API
+# 👋 About Me
 
-**My Contributions:**
-https://pypi.org/project/perceptive-crop-image/2.0.0/
-https://medium.com/@fathima.offical.msg/
+I am a versatile **Full Stack Developer** with 5 years of hands-on experience across diverse domains. My expertise spans:
+
+## **Backend Development:**
+- Python (Flask, FastAPI)
+- PHP
+- node js
+
+
+## **Frontend Development:**
+- React
+- Flutter
+- Kotlin
+
+## **Machine Learning & Deep Learning:**
+- Jupyter Notebooks
+- TensorFlow
+- PyTorch
+
+## **Cloud & DevOps:**
+- Heroku
+- Firebase
+- Render
+  
+## **Databases:**
+- DBMS (SQL,MYSQL, POSTGRES SQL,SQLITE)
+- NoSQL (MongoDB, Firebase Realtime Database)
+
+## **Payment Integration:**
+- Stripe API
+
+
+## **My Contributions:**
+- [Perceptive Crop Image on PyPI](https://pypi.org/project/perceptive-crop-image/2.0.0/)
+- [My Blog on Medium](https://medium.com/@fathima.offical.msg/)
+
