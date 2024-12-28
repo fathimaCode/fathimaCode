@@ -1,6 +1,6 @@
 # 👋 About Me
 
-I am a versatile **Full Stack Developer** with 5 years of hands-on experience across diverse domains. My expertise spans:
+I am a versatile **Software Engineer** with 5 years of hands-on experience across diverse domains. My expertise spans:
 
 ## **Backend Development:**
 - Python (Flask, FastAPI)
