@@ -2,11 +2,6 @@
 
 I am a versatile **Software Engineer** with 5 years of hands-on experience across diverse domains. My expertise spans:
 
-[![fathimaCode's GitHub stats](https://github-readme-stats.vercel.app/api?username=fathimaCode)](https://github.com/fathimaCode/github-readme-stats)
-
-![fathimaCode's GitHub stats](https://github-readme-stats.vercel.app/api?username=fathimaCode&show_icons=true)
-
-
 ## **Backend Development:**
 - Python (Flask, FastAPI)
 - PHP
@@ -41,3 +36,8 @@ I am a versatile **Software Engineer** with 5 years of hands-on experience acros
 - [Perceptive Crop Image on PyPI](https://pypi.org/project/perceptive-crop-image/2.0.0/)
 - [My Blog on Medium](https://medium.com/@fathima.offical.msg/)
 
+[![fathimaCode's GitHub stats](https://github-readme-stats.vercel.app/api?username=fathimaCode)](https://github.com/fathimaCode/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fathimaCode&layout=donut)](https://github.com/fathimaCode/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fathimaCode&layout=compact)
