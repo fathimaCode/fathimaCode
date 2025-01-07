@@ -1,7 +1,11 @@
 # 👋 About Me
 
 I am a versatile **Software Engineer** with 5 years of hands-on experience across diverse domains. My expertise spans:
-![fathimaCode's GitHub stats](https://github-readme-stats.vercel.app/api?username=fathimaCode &show_icons=true)
+
+
+![fathimaCode's GitHub stats](https://github-readme-stats.vercel.app/api?username=fathimaCode&show_icons=true)
+
+
 ## **Backend Development:**
 - Python (Flask, FastAPI)
 - PHP
