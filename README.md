@@ -36,8 +36,4 @@ I am a versatile **Software Engineer** with 5 years of hands-on experience acros
 - [Perceptive Crop Image on PyPI](https://pypi.org/project/perceptive-crop-image/2.0.0/)
 - [My Blog on Medium](https://medium.com/@fathima.offical.msg/)
 
-![fathimaCode's GitHub stats](https://github-readme-stats.vercel.app/api?username=fathimaCode&show_icons=true&theme=radical)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/fathimaCode/github-readme-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fathimaCode&layout=compact)
